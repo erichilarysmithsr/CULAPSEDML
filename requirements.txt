@@ -1,4 +1,9 @@
 bokeh
 holoviews
 jupyter
+matplotlib
+numpy
+pandas
 panel
+seaborn
+sklearn
